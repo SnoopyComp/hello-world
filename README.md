@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using GitHub as its remotes.
 This repository is built step by step in the tutorial.
 
 It now includes stpes for GitHub
+
+And now on branch push test
